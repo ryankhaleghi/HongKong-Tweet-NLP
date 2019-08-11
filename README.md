@@ -4,7 +4,7 @@ In this project, I will scrape tweets about the game Warframe and do Natural Lan
 
 
 Files
-Scrapers: I am scraping several different types of tweets from Twitter and storing them for import into data analysis. One script to scrape tweets by the official Warframe twitter account, and one script to scrape tweets using specific hashtags, in this case #warframe and #tennocon, relating to the Warframe game and annual Tennocon conference. 
+Scrapers: I am scraping several different types of tweets from Twitter and storing them as csv files for import into dataframes for data science analysis. One script to scrape tweets by the official Warframe twitter account, and one script to scrape tweets using specific hashtags, in this case #warframe and #TennoCon, relating to the Warframe game and the annual Tennocon conference. 
 
 These scraper files are the .py files listed below:
 - scrapeWarframe.py: scrapes Twitter using account you enter (no @ sign), limited to 3240 tweets by Twitter
