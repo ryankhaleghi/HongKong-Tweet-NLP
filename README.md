@@ -11,9 +11,9 @@ These scraper files are the .py files listed below:
 - scrapeHashtag.py: scrapes Twitter using hashtag you enter (no # sign), with number of tweets to scrape
 
 The csv files of tweets created are the files listed below:
-- PlayWarframe_tweets.csv
-- tweets_with_hashtag_TennoCon.csv
-- tweets_with_hashtag_warframe.csv
+- PlayWarframe_tweets.csv - 3217 tweets as .csv file
+- tweets_with_hashtag_TennoCon.csv - 1000 tweets as .csv file #TennoCon
+- tweets_with_hashtag_warframe.csv - 1000 tweets as .csv file #warframe
 
 Jupyter Notebooks: Once I have the tweets scraped, I will import them into Jupyter Notebooks to do NLP analysis on them.
 
