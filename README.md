@@ -1,6 +1,6 @@
 # Warframe-Tweet-NLP
 
-In this project, I will scrape tweets about the game warframe and do Natural Language Processing analysis on them, using spaCy and NTLK.
+In this project, I will scrape tweets about the game Warframe and do Natural Language Processing analysis on them, using spaCy and NTLK.
 
 
 Files
